@@ -1,7 +1,9 @@
 # <div align="center">Hello World!!! I am Ronny!!🙌</div>  
   
 
-### <div align="center">A full-stack software developer that just graduated from App Academy.</div>  
+### <div align="center">A full-stack software developer that just graduated from App Academy.</div> 
+- I am always interest and excited in creating new projects!!
+- My favorite part about coding is debugging, it requires critical thinking and allows me to understand the codes in a deeper level.
   
 
 <br/>  
@@ -59,7 +61,8 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ronny-deng/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://angel.co/u/jinjun-ronny-deng"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
 </div>  
   
 
