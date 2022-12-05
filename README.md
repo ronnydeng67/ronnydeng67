@@ -79,6 +79,12 @@ Getting hungry and have no ideas what to eat? Come spin the wheel!! It randomly 
 </a>
 <a href="https://angel.co/u/jinjun-ronny-deng"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
 </div>  
+
+<br/>
+
+Want to know more about me? Take a look at my [resume](https://docs.google.com/document/d/1iqPuQ8kreEbEK0Pksi8HFVpDrHzUjD39RVhDKawQyRs/edit)!
+<br/>
+Connect with me through email: ronnydeng67@gmail.com
   
 
 
