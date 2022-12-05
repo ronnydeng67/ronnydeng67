@@ -8,6 +8,21 @@
 
 <br/>  
 
+## My Projects
+
+[Car Picker](https://ronnydeng67.github.io/Car-Picker/) :racing_car: :racing_car: <br/>
+<br/>
+Car Picker is a data visualization web application that provide car suggestions to user based on the user's preferences. Perform a car search by features/criteria most vital to the users, disvover new cars for users accourding to user's selections. <br/>
+<br/>
+[TechGurus](https://tech-gurus.herokuapp.com/) :computer: :computer: <br/>
+<br/>
+TechGurus, a BestBuy clone, is a electronic online retails store. Users are able to create their own accounts and add their items to cart to checkout.<br/>
+<br/>
+[Meals4U](https://meals4u.onrender.com/) :pizza: :ramen: <br/>
+<br/>
+Getting hungry and have no ideas what to eat? Come spin the wheel!! It randomly pick food for you, you can also edit your own wheels, look up and spin other users' wheels, you can save them and make them your own wheels if you love them, Yelp Fusion is implemented for you to see restaurants nearby that related to the food you picked from the wheel.<br/>
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
