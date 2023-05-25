@@ -4,7 +4,7 @@
 ### <div align="center">A full-stack software developer that just graduated from App Academy.</div> 
 - I am always interest and excited in creating new projects!!
 - My favorite part about coding is debugging, it requires critical thinking and allows me to understand the codes in a deeper level.
-- Right now I am learning Python on [MOOC.fi](https://www.mooc.fi/en/), and it's totally free, come to learn Python with me!!
+- Right now I am learning Java on [MOOC.fi](https://www.mooc.fi/en/), and it's totally free, come to learn Java with me!!
   
 
 <br/>  
